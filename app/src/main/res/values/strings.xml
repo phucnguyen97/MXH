@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pionmxh</string>
+    <string name="title_activity_man_hinh_quen_mat_khau">ManHinhQuenMatKhauActivity</string>
+    <string name="xacnhan">Nhập địa chỉ email bạn đã đăng ký và chúng tôi sẽ gửi email cho bạn một liên kết đặt lại.</string>
+</resources>
